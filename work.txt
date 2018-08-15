@@ -1,0 +1,5 @@
+{"errorSign":true,"type":2,"reply":"Successfully added."}
+{"errorSign":true,"type":2,"reply":"Successfully added."}
+{"errorSign":false,"type":2,"reply":"Sorry, the word you want to add has already existed."}
+{"errorSign":true,"type":3,"reply":"Successfully removed."}
+{"errorSign":false,"type":3,"reply":"The word you want to remove doesn't exist."}
